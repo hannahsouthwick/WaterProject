@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hannahsouthwick/Documents/GitHub/BootstrapFun/WaterProject/WaterProject/WaterProject/WaterProject.csproj",
+      "projectUniqueName": "/Users/hannahsouthwick/Documents/GitHub/WaterProject/WaterProject/WaterProject/WaterProject.csproj",
       "projectName": "WaterProject",
-      "projectPath": "/Users/hannahsouthwick/Documents/GitHub/BootstrapFun/WaterProject/WaterProject/WaterProject/WaterProject.csproj",
+      "projectPath": "/Users/hannahsouthwick/Documents/GitHub/WaterProject/WaterProject/WaterProject/WaterProject.csproj",
       "packagesPath": "/Users/hannahsouthwick/.nuget/packages/",
-      "outputPath": "/Users/hannahsouthwick/Documents/GitHub/BootstrapFun/WaterProject/WaterProject/WaterProject/obj/",
+      "outputPath": "/Users/hannahsouthwick/Documents/GitHub/WaterProject/WaterProject/WaterProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hannahsouthwick/.nuget/NuGet/NuGet.Config"

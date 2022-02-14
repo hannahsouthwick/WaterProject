@@ -1,13 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WaterProject/Controllers/HomeController.cs">
-    <Files>
-      <File FileName="WaterProject/Controllers/HomeController.cs" Line="7" Column="36" />
-      <File FileName="WaterProject/Startup.cs" />
-      <File FileName="WaterProject/Views/Home/Index.cshtml" />
-      <File FileName="WaterProject/Views/_ViewStart.cshtml" />
-      <File FileName="WaterProject/Views/_ViewImports.cshtml" />
-      <File FileName="WaterProject/Program.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
