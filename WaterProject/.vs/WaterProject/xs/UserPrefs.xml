@@ -1,13 +1,17 @@
-﻿<Properties StartupConfiguration="{1A0B6AB2-5288-449D-8243-B6F9E31793E8}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaterProject/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WaterProject/Controllers/HomeController.cs" Line="7" Column="36" />
+      <File FileName="WaterProject/Startup.cs" />
+      <File FileName="WaterProject/Views/Home/Index.cshtml" />
+      <File FileName="WaterProject/Views/_ViewStart.cshtml" />
+      <File FileName="WaterProject/Views/_ViewImports.cshtml" />
+      <File FileName="WaterProject/Program.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WaterProject" expanded="True" selected="True">
-            <Node name="WaterProject" expanded="True">
-              <Node name="Views" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="WaterProject" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
